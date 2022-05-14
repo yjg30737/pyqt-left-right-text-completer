@@ -1,7 +1,7 @@
 # pyqt-left-right-text-completer
 PyQt Left text, right text completer. Left text is major target of search.
 
-## Detail
+## Detailed Description
 
 QCompleter's popup widget is gridless QTableView. Right text is gray colored.
 
@@ -15,7 +15,7 @@ This completer is case insensitive as default.
 PyQt5 >= 5.8
 
 ## Setup
-```pip3 install git+https://github.com/yjg30737/pyqt-left-right-text-completer.git --upgrade```
+`python -m pip install pyqt-left-right-text-completer`
 
 ## Example
 Code Example
