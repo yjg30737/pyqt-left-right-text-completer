@@ -52,4 +52,3 @@ class LeftRightTextCompleter(QCompleter):
 
 
 
-
